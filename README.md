@@ -1,4 +1,4 @@
-☺Hello, Devs! I'm Chiragsinh Chavda.
+☺Hello, Developers! I'm Chiragsinh Chavda.
  
 
 ![download](https://user-images.githubusercontent.com/110655672/183014713-f88f6585-d63f-499a-9879-219f8f31cda3.png)
