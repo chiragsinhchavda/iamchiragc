@@ -5,7 +5,7 @@
 
 
 About me: 
-- 👋 Hi, I’m currently pursuing BE in Information Technology from HGCE, Ahmedabad.
+- 👋 Hi, I’m currently pursuing BE in Information Technology.
 - 👀 I’m interested in Web/Mobile/Frontend/Backend Application Development, AI, ML, Python...
 - 🌱 I’m currently learning Python and Web Development concepts.
 - 💞️ I’m looking to collaborate on projects.
