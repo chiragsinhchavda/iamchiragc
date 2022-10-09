@@ -7,8 +7,8 @@
 About me: 
 - 👋 Hi, I’m currently pursuing BE in Information Technology.
 - 👀 I’m interested in Web/Mobile/Frontend/Backend Application Development,JavaScript, AI, ML, Python...
-- 🌱 I’m currently learning Adv. JavaScript and Web Development concepts.
-- 📫 Reach me chiragsinhchavda01@gmail.com
+- 🌱 I’m currently learning Advance JavaScript and Web Development concepts.
+- 📫 Reach me iamchiragc@gmail.com
 
 
 
